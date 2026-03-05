@@ -1,5 +1,20 @@
 [
- { "id": 1, "name": "Chennai" },
- { "id": 2, "name": "Vellore" },
- { "id": 3, "name": "Tiruvannamalai" }
+  { "id": 1, "name": "Arani" },
+  { "id": 2, "name": "Arcot" },
+  { "id": 3, "name": "Bengaluru" },
+  { "id": 4, "name": "Chengalpattu" },
+  { "id": 5, "name": "Chennai" },
+  { "id": 6, "name": "Gingee" },
+  { "id": 7, "name": "Kanchipuram" },
+  { "id": 8, "name": "Melmaruvathur" },
+  { "id": 9, "name": "Salem" },
+  { "id": 10, "name": "Pondicherry" },
+  { "id": 11, "name": "Tambaram" },
+  { "id": 12, "name": "Thiruthani" },
+  { "id": 13, "name": "Tindivanam" },
+  { "id": 14, "name": "Tirupati" },
+  { "id": 15, "name": "Thiruvannamalai" },
+  { "id": 16, "name": "Trichy" },
+  { "id": 17, "name": "Vandavasi" },
+  { "id": 18, "name": "Vellore" }
 ]
