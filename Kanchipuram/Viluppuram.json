@@ -1,0 +1,142 @@
+[
+  {
+    "S.No": "1",
+    "Time": "02:45 AM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "2",
+    "Time": "05:00 AM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "3",
+    "Time": "05:50 AM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "4",
+    "Time": "07:00 AM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "5",
+    "Time": "07:55 AM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Viluppuram"
+  },
+  {
+    "S.No": "6",
+    "Time": "09:00 AM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "7",
+    "Time": "09:40 AM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "8",
+    "Time": "10:20 AM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "9",
+    "Time": "10:45 AM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "10",
+    "Time": "12:00 PM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "11",
+    "Time": "01:30 PM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "12",
+    "Time": "02:15 PM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Viluppuram"
+  },
+  {
+    "S.No": "13",
+    "Time": "03:15 PM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "14",
+    "Time": "03:40 PM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Viluppuram"
+  },
+  {
+    "S.No": "15",
+    "Time": "04:45 PM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "16",
+    "Time": "05:50 PM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Nagercoil"
+  },
+  {
+    "S.No": "17",
+    "Time": "06:10 PM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Viluppuram"
+  },
+  {
+    "S.No": "18",
+    "Time": "07:00 PM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "19",
+    "Time": "09:30 PM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Trichy"
+  },
+  {
+    "S.No": "20",
+    "Time": "11:40 PM",
+    "Vno": "",
+    "Start": "Kanchipuram",
+    "Dest": "Viluppuram"
+  }
+]
