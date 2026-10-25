@@ -1,5 +1,10 @@
 
 [
   { "id": 1, "name": "Cheyyar" },
-  { "id": 2, "name": "Trichy" } 
+  { "id": 2, "name": "Trichy" },
+  { "id": 3, "name": "Viluppuram" },
+  { "id": 4, "name": "Pondicherry" },
+  { "id": 5, "name": "Tindivanam" },
+  { "id": 6, "name": "Salem" },
+  { "id": 6, "name": "Tiruvannamalai" },
 ]
