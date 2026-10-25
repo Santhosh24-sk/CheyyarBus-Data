@@ -1,268 +1,261 @@
 [
   {
-    "S.No": "1",
-    "Time": "03:45 AM",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "2",
+    "03:45 AM": "04:15 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "2",
-    "Time": "04:15",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "3",
+    "03:45 AM": "05:10 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "3",
-    "Time": "05:10",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "4",
+    "03:45 AM": "05:25 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "4",
-    "Time": "05:25",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "5",
+    "03:45 AM": "05:55 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "5",
-    "Time": "05:55",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "6",
+    "03:45 AM": "06:20 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "6",
-    "Time": "06:20",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "7",
+    "03:45 AM": "07:00 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "7",
-    "Time": "07:00",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "8",
+    "03:45 AM": "07:40 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "8",
-    "Time": "07:40",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "9",
+    "03:45 AM": "08:00 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "9",
-    "Time": "08:00",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "10",
+    "03:45 AM": "08:40 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "10",
-    "Time": "08:40",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "11",
+    "03:45 AM": "09:05 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "11",
-    "Time": "09:05",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "12",
+    "03:45 AM": "09:25 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "12",
-    "Time": "09:25",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "13",
+    "03:45 AM": "09:57 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "13",
-    "Time": "09:57",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "14",
+    "03:45 AM": "10:15 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "14",
-    "Time": "10:15",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "15",
+    "03:45 AM": "10:40 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "15",
-    "Time": "10:40",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "16",
+    "03:45 AM": "11:05 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "16",
-    "Time": "11:05",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "17",
+    "03:45 AM": "12:15 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "17",
-    "Time": "12:15",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "18",
+    "03:45 AM": "12:40 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "18",
-    "Time": "12:40",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "19",
+    "03:45 AM": "01:15 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "19",
-    "Time": "13:15",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "20",
+    "03:45 AM": "02:10 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "20",
-    "Time": "14:10",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "21",
+    "03:45 AM": "02:35 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "21",
-    "Time": "14:35",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "22",
+    "03:45 AM": "02:50 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "22",
-    "Time": "14:50",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "23",
+    "03:45 AM": "12:00 AM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "23",
-    "Time": "00:00",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "24",
+    "03:45 AM": "03:45 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "24",
-    "Time": "15:45",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "25",
+    "03:45 AM": "04:05 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "25",
-    "Time": "16:05",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "26",
+    "03:45 AM": "04:25 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "26",
-    "Time": "16:25",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "27",
+    "03:45 AM": "05:05 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "27",
-    "Time": "17:05",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "28",
+    "03:45 AM": "05:45 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "28",
-    "Time": "17:45",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "29",
+    "03:45 AM": "06:20 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "29",
-    "Time": "18:20",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "30",
+    "03:45 AM": "07:40 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "30",
-    "Time": "19:40",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "31",
+    "03:45 AM": "07:50 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "31",
-    "Time": "19:50",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "32",
+    "03:45 AM": "08:40 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "32",
-    "Time": "20:40",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "33",
+    "03:45 AM": "09:00 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "33",
-    "Time": "21:00",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "34",
+    "03:45 AM": "09:20 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "34",
-    "Time": "21:20",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "35",
+    "03:45 AM": "09:45 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "35",
-    "Time": "21:45",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "36",
+    "03:45 AM": "10:15 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "36",
-    "Time": "22:15",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "37",
+    "03:45 AM": "10:50 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   },
   {
-    "S.No": "37",
-    "Time": "22:50",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
-  },
-  {
-    "S.No": "38",
-    "Time": "23:40",
-    "Vno": "",
-    "Start": "Kanchipuram",
-    "Dest": "Tirupati"
+    "1": "38",
+    "03:45 AM": "11:40 PM",
+    "": "",
+    "Kanchipuram": "Kanchipuram",
+    "Tirupati": "Tirupati"
   }
 ]
