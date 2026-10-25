@@ -8,5 +8,8 @@
   { "id": 6, "name": "Salem" },
   { "id": 7, "name": "Bengaluru" },
   { "id": 8, "name": "Tirupati" },
-  { "id": 9, "name": "Tiruvannamalai" }
+  { "id": 9, "name": "Tiruvannamalai" },
+  { "id": 10, "name": "Kalpakkam" },
+  { "id": 11, "name": "Chengalpattu" },
+  { "id": 12, "name": "Thirukazhukundram" },
 ]
